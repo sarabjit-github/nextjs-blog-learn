@@ -17,8 +17,8 @@ export default function Home({ allPostsData }) {
           writer. You can find me anywhere.
         </p>
         <p>
-          (This is a sample website - you’ll be building a site like this on{" "}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
+          (I built this website when I was learning the{" "}
+          <a href="https://nextjs.org/learn">Next.js tutorial</a>.)
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
